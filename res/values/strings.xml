@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">UPSACS</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_search">Search</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="search_hint">Search Places</string>
+    <string name="search_settings">Search Places</string>
+    <string name="facility_locator">Facility Locator</string>
+    <string name="faq">FAQ</string>
+    <string name="about_dep">About Department</string>
+    <string name="about_aids">About AIDS</string>
+    <string name="dosdonts">Do\'s &amp; Dont\'s</string>
+    <string name="facts">Facts</string>
+
+</resources>
